@@ -1,4 +1,4 @@
-<h3 align="center">GitCompare</h3>
+<h2 align="center">GitCompare</h2>
 
 <p align="center">
  <img width=500 src="images/screenshot-project.png" alt="Project logo"></a>
