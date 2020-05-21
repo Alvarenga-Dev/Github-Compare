@@ -1,4 +1,4 @@
-<h2 align="center">GitCompare</h2>
+<h2 align="center">Github Compare</h2>
 
 <p align="center">
  <img width=500 src="images/screenshot-project.png" alt="Project logo"></a>
@@ -33,7 +33,7 @@ yarn add font-awesome
 
 💁🏻‍♂️ **Lucas Alvarenga**
 
-* Meu Portifólio: https://alvarengadev.firebaseapp.com
+* Meu Portfólio: https://alvarengadev.firebaseapp.com
 * Github: [@Alvarenga-Dev](https://github.com/Alvarenga-Dev)
 
 ## Dá uma estrelinha! ⭐️
