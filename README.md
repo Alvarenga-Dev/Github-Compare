@@ -6,7 +6,7 @@
 
 ## Projeto 📋
 
-<p>O GitCompare é um comparador de repositórios, no qual ele exibe suas informações como número de "starts", "issues" e último "commit", por exemplo.</p>
+<p>O Github Compare é um comparador de repositórios, no qual ele exibe suas informações como número de "starts", "issues" e último "commit", por exemplo.</p>
 
 ## Conceitos abordados ✏️
 
